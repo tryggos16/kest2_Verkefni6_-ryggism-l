@@ -28,9 +28,9 @@ Answer: 5 minutes
 ### 1. Question: Are there any you would recommend changing? Why?
 Answer: The domains trusted to authenticate logon attempts. So, The student might recommend that only the Administrator group be allowed access.
 
-### 2. Question
-
+### 2. Questions:
 Policy:
+-----
    Devices: Allow undock without having to log on
    
    Interactive logon: Message title for users attempting to log on
@@ -41,9 +41,10 @@ Policy:
 
 
 Security Setting:
+-----
    Disabled
    
-   Caution:
+   Caution
    
    Your activity is monitored. This computer is for business use only.
    
@@ -51,12 +52,4 @@ Security Setting:
 
 
 
-
-
-
-
-
-
-
-   
 
