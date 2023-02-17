@@ -2,6 +2,14 @@
 
 
 
+# 13.2.3.7 Lab – Bitlocker and Bitlocker To Go.
+--------------------
+### 1. Question: Why is it important to save a BitLocker recovery key?
+Answer: The recovery key is needed for you to gain access to the computer in the event the password is forgotten.
+
+### 2. Question: What is the function of a TPM in relation to BitLocker?
+Answer: Trusted Platform Module (TPM) can be used to store the disk encryption key so it can tie use of the disk to a specific computer.
+
 
 # 13.3.2.5 Lab – Configure Windows Local Security Policy.
 --------------------
@@ -49,6 +57,12 @@ Security Setting:
    Your activity is monitored. This computer is for business use only.
    
    7 days
+   
+   
+# 13.3.3.6 Configure Users and Groups in Windows.
+--------------------
+
+
 
 
 
