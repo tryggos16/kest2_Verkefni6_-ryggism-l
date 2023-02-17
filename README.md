@@ -22,5 +22,12 @@ Answer: 5 tries before lock
 Answer: 5 minutes
 
 
+# Step 6:  Configure additional Local Policies security settings.
+--------------------
+
+### 1. Question: Are there any you would recommend changing? Why?
+Answer: The domains trusted to authenticate logon attempts. So, The student might recommend that only the Administrator group be allowed access.
+
+
 
 
