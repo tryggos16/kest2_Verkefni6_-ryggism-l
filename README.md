@@ -175,10 +175,30 @@ Answer: The members of the group ITEStaff inherits local administrative privileg
 Answer: In the file properties window, give full control to the owner and explicitly deny all access to other groups and users.
 
 
+# 13.3.4.6 Lab - Configure Windows Firewall.
+
+### 1. Question: Under PC-1, are you able to see the shared folder Cisco?
+Answer: True.
+
+### 2. Question: What are the benefits of Windows Firewall?
+Answer: It can prevent hackers or malicious software from gaining access to your computer through the internet or a network.
+
+### 3. Question: Describe a negative consequence of having too many exceptions.
+Answer: having to many exceptions will put the computer at higher risk of attacks.
 
 
+### 4. Question: Can you connect to PC-1 and view the Cisco shared folder?
+Answer: NO.
+
+### 5. Question: Did you receive an error message on PC-2? If so, what was the Error message?
+Answer:  Windows cannot access PC-1.
+
+### 6. Question: Can you connect to computer 1? Explain.
+Answer: Yes, because PC-1’s File and Printer Sharing is not being blocked by the firewall.
 
 
+### 7. Question: List the short name of four services that are available in the Customize Service Settnigs window.
+Answer: AxinstSv, AjRouter, Appinfo, ALG.
 
 
 take! pass:  Cisco12345
