@@ -147,7 +147,32 @@ Answer: Select (Full Control).
 
 ## Part 3:  Modify User and Group Permissions.
 
+### 12. Question: Navigate to the folder C:\Students. Create a folder named Student02 and create a text document in the folder.
+Were you successful? Explain.
+Answer: YES. users it the group (ITEStudent) hav full control ower that folder.
 
+### 13. Question: Navigate to the folder C:\Staff. Create a folder named Student02 and place a text file in the folder.
+Were you successful? Explain.
+Answer: Yes and NO. users in the group (ITEStudent), Student01 has no access to the Staff folder, but the user has full control in the Students folder.
+
+### 14. Question: Are you able to access the content in the Student01 and Student02 folders? Explain.
+Answer: Yes and NO. As a user in the group ITEStudent, Student02 still has access to Student02 folder, but there is no access to Student01 folder.
+
+### 15. Question: Were you able to access the content in the folders Staff, Student\Student01 and Student\Student02? Explain.
+Answer: Yes. As a user in the group ITEStaff, Staff01 has all the content in C:\Staff and C:\Student. The group permission did not deny write access to the Student’s folders.
+
+## Step 2:  Disable a user account.
+
+### 16. Question: Can you log on as Staff02? Explain.
+Answer: No. Because the account has been disabled.
+
+## Reflection Questions.
+
+### 17. Question: How would you give administrative privileges on the local computer to all the members of ITEStaff?
+Answer: The members of the group ITEStaff inherits local administrative privileges when it is added to the built-in group Administrator. To change group permission, navigate to Control Panel > Administrative Tools > Computer Management > Local Users and Groups > right-click Add to Group. Click Add to add ITEStaff to the group Administrator.
+
+### 18. Question: How would you deny access to a file for everyone except the owner?
+Answer: In the file properties window, give full control to the owner and explicitly deny all access to other groups and users.
 
 
 
