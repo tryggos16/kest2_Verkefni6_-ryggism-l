@@ -65,7 +65,8 @@ Security Setting:
 
 ## Step 1:  Access Local Users and Groups Manager.
 ### 1. Question: What are the names of the accounts listed?
-Answer: 
+Answer: ->
+
   Administrator.
   
   DefaultAccount.
@@ -84,8 +85,18 @@ Answer:
   
   WDAGUtility.
 
+### 2. Question: Select the Groups folder. Name five groups from the list.
+Answer: ->
 
-
+  Administrators.
+  
+  Users.
+  
+  Guests.
+  
+  Event Log Readers.
+  
+  Power Users.
 
 
 
