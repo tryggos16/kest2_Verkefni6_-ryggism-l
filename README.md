@@ -98,6 +98,7 @@ Answer: ->
   
   Power Users.
 
-
+### 3. Question: Which group does your account belong to?
+Answer: Administrators
 
 
