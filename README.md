@@ -99,6 +99,21 @@ Answer: ->
   Power Users.
 
 ### 3. Question: Which group does your account belong to?
-Answer: Administrators
+Answer: Administrators.
+
+## Step 2:  Create new users.
+### 4. Question: What is Student01 required to do when logging in the first time?
+Answer: Change the password.
+
+### 5. Question: What group does User01 belong to?
+Answer: Users.
+
+
+take! pass:  Cisco12345
+
+
+
+
+
 
 
