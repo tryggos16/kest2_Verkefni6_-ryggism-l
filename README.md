@@ -61,6 +61,29 @@ Security Setting:
    
 # 13.3.3.6 Configure Users and Groups in Windows.
 --------------------
+## Part 1:  Create New Users
+
+## Step 1:  Access Local Users and Groups Manager.
+### 1. Question: What are the names of the accounts listed?
+Answer: 
+  Administrator.
+  
+  DefaultAccount.
+  
+  Guest.
+  
+  testUser.
+  
+  testUser2.
+  
+  tryggvi þor.
+  
+  user1.
+  
+  verkuser.
+  
+  WDAGUtility.
+
 
 
 
