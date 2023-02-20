@@ -108,6 +108,29 @@ Answer: Change the password.
 ### 5. Question: What group does User01 belong to?
 Answer: Users.
 
+### 6. Question: From the description, can the members of the Users group make system wide changes? What can the Users group do on the computer?
+Answer: NO.
+
+### 7. Question: Who are the group members?
+Answer:
+
+  Staff01
+  
+  Staff02
+  
+  Student01
+  
+  Student02
+  
+  test User
+  
+  test User2
+  
+  user1
+  
+  verkuser
+
+
 
 take! pass:  Cisco12345
 
