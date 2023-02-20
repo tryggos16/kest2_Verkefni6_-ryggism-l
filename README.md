@@ -112,7 +112,7 @@ Answer: Users.
 Answer: NO.
 
 ### 7. Question: Who are the group members?
-Answer:
+Answer: ->
 
   Staff01
   
@@ -129,6 +129,30 @@ Answer:
   user1
   
   verkuser
+  
+  ## Step 3:  Verify user and group permissions.
+  ### 8. Question: Were you successful in creating the new account as a member of the Users group? Explain.
+  Answer: NO, members of the (users) group do not have permision to create now users, becouse it will affect the computer.
+  
+  ### 9. Question: Were you able to navigate to www.cisco.com? Explain.
+  Answer: YES, members of the (users) group can use the internet.
+
+## Part 2:  Create New Groups.
+
+### 10. Question: With the group ITEStaff highlighted, what can the members do in this folder?
+Answer: members of the (ITEStaff) group have, read & execute, list folder contents, and read permissions
+
+### 11. Question: Which additional checkbox would you select?
+Answer: Select (Full Control).
+
+## Part 3:  Modify User and Group Permissions.
+
+
+
+
+
+
+
 
 
 
