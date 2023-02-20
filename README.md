@@ -186,7 +186,6 @@ Answer: It can prevent hackers or malicious software from gaining access to your
 ### 3. Question: Describe a negative consequence of having too many exceptions.
 Answer: having to many exceptions will put the computer at higher risk of attacks.
 
-
 ### 4. Question: Can you connect to PC-1 and view the Cisco shared folder?
 Answer: NO.
 
@@ -195,7 +194,6 @@ Answer:  Windows cannot access PC-1.
 
 ### 6. Question: Can you connect to computer 1? Explain.
 Answer: Yes, because PC-1’s File and Printer Sharing is not being blocked by the firewall.
-
 
 ### 7. Question: List the short name of four services that are available in the Customize Service Settnigs window.
 Answer: AxinstSv, AjRouter, Appinfo, ALG.
