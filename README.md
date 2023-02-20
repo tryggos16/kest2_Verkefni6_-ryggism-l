@@ -200,6 +200,13 @@ Answer: Yes, because PC-1’s File and Printer Sharing is not being blocked by t
 ### 7. Question: List the short name of four services that are available in the Customize Service Settnigs window.
 Answer: AxinstSv, AjRouter, Appinfo, ALG.
 
+### 8. Question: List four of the Specific ICMP types.
+Answer:Packet Too Big, Source Quench, Echo Recuest, Time Exceeded.
+
+## Reflection Question.
+
+### What are some possible reasons you may need to make firewall changes?
+Answer: You may be required to make firewall changes to allow some apps to function correctly
 
 take! pass:  Cisco12345
 
