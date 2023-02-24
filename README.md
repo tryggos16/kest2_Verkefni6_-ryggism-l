@@ -207,8 +207,9 @@ Answer:Packet Too Big, Source Quench, Echo Recuest, Time Exceeded.
 Answer: You may be required to make firewall changes to allow some apps to function correctly
 
 
-# NOT DONE!
+# in a file on Top
 # 13.4.1.10 Packet Tracer – Configure Wireless Security.
+# in a file on Top
 
 take! pass:  Cisco12345
 
